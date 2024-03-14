@@ -1,6 +1,6 @@
 # Web Development Quiz App
 
-url: https://webdevquizz.netlify.app/
+url: https://webdevequizapp.netlify.app/
 
 Welcome to the Web Development Quiz App! This simple quiz application tests your knowledge of web development concepts, including HTML, CSS, and JavaScript. Challenge yourself and see how well you know these fundamental technologies.
 
